@@ -7,7 +7,7 @@ Barcode and QRCode for miniprogram plugin.
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save nimi-code
+$ npm install --save mini-code
 ```
 ## Usages
 ``` js
